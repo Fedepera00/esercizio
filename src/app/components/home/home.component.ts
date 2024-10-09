@@ -1,4 +1,4 @@
-import { Ipost } from './../../modules/ipost';
+import { Ipost } from './../../modules/interfaces';
 import { Component } from '@angular/core';
 
 @Component({
